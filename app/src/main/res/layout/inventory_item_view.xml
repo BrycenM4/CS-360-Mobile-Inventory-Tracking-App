@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:background="#999090">
+
+    <TextView
+        android:id="@+id/itemQuantity"
+        android:layout_width="120dp"
+        android:layout_height="48dp"
+        android:textSize="35sp"
+        android:text=""
+        android:layout_marginEnd="8dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="Inventory Item"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <TextView
+        android:id="@+id/itemName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Item Name"
+        android:textSize="25sp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:layout_marginStart="10dp"
+        app:layout_constraintStart_toEndOf="@id/itemQuantity"
+        app:layout_constraintTop_toTopOf="@id/itemQuantity"
+        app:layout_constraintBottom_toBottomOf="@id/itemQuantity"
+        android:layout_marginEnd="8dp"/>
+
+    <ImageButton
+        android:id="@+id/deleteButton"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:src="@android:drawable/ic_delete"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="Delete Item"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

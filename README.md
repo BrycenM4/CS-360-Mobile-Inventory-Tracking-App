@@ -1,6 +1,6 @@
 - Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
-  As a mobile application developer, my job for this project was to create a simple inventory tracking app for one of our clients. The requirements for it included having databases for both login information and inventory tracking, an intuitive login page, a grid for dispalying all of the inventory items on one screen, the ability to add/remove items, as well as a way to increase/decrease the number for each item. This provides a way for businesses to track their inventory effectively, without the need for large-enterprise systems that cost a lot of money.
+  As a mobile application developer, my job for this project was to create a simple inventory tracking app for one of our clients. The requirements for it included having databases for both login information and inventory tracking, an intuitive login page, a grid for displaying all of the inventory items on one screen, the ability to add/remove items, as well as a way to increase/decrease the number for each item. This provides a way for businesses to track their inventory effectively, without the need for large-enterprise systems that cost a lot of money.
   
 - What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 

@@ -4,7 +4,7 @@
   
 - What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
- Not only did all of those functions need to be included in the app, but the UI also had to look appealing and user-friendly. To accomplish this, I avoided the use of vibrant, flashy colors, and instead went for a simpler, more modern design. I also tried to avoid cluttering the screens, because I know that can be frustrating for users, especially on mobile apps where the screen is already small.
+  Not only did all of those functions need to be included in the app, but the UI also had to look appealing and user-friendly. To accomplish this, I avoided the use of vibrant, flashy colors, and instead went for a simpler, more modern design. I also tried to avoid cluttering the screens, because I know that can be frustrating for users, especially on mobile apps where the screen is already small.
 
 - How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
 
